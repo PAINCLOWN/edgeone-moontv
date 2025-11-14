@@ -2,7 +2,7 @@
   "site_name": "orzTV",
     "douban_proxy": "https://tv.poxx.top/fetch?url=",
   "downstream_proxy": "https://tv.poxx.top/fetch?url=",
-  "image_proxy": "https://tv.poxx.top/image?url="
+  "image_proxy": "https://tv.poxx.top/image?url=",
   "homepage_password": "741852963",
   "cache_time": 7200,
   "api_site": {
